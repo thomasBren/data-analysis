@@ -1,6 +1,6 @@
 ## Software Evolution Course
 
-1- Clone the "software-evolution-analysis" repository (git clone https://github.com/HassanOnsori/software-evolution-analysis.git)
+1- Clone the repository (git clone https://github.com/HassanOnsori/data-analysis.git)
 
 2- Create virtual environment (python3 -m venv .venv)
 
