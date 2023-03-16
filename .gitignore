@@ -1,0 +1,9 @@
+.vscode
+.pytest*
+*__pycache__*
+*.ipynb_checkpoints*
+bfg-*
+*.html
+.DS_Store
+.venv
+venv
